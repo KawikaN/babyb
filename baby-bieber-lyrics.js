@@ -1,4 +1,4 @@
-"use strict";
+
 const bieberBaby = [
     'Oh-ooh-whoa-oh-oh-oh-oh',
     'Oh-ooh-whoa-oh-oh-oh-oh',
